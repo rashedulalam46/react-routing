@@ -23,6 +23,7 @@ react-routing/
 │ ├── components/
 │ │ ├── Header.jsx
 │ │ ├── Navbar.jsx
+| | ├── Layout.jsx
 │ │ └── Footer.jsx
 │ │
 │ ├── pages/
@@ -31,7 +32,6 @@ react-routing/
 │ │ ├── Contact.jsx
 │ │ └── PageNotFound.jsx
 │ │
-│ ├── Layout.jsx
 │ ├── App.jsx
 │ └── index.js
 │
