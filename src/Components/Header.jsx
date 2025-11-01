@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 function Header() {
   return (
     <header style={{ backgroundColor: "#282c34", color: "white", padding: "10px" }}>
-      <h1>My React Routing App</h1>
+      <h1>React Routing</h1>
     </header>
   );
 }
